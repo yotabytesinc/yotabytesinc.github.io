@@ -1,6 +1,6 @@
 ## Getting Started
 
-* Clone the repo: `git clone https://github.com/yotabytesinc/yotabytesinc.github.io`
+* Clone the repo: `git clone https://github.com/yotabytesinc/yotabytesinc.github.io.git`
 * Fork the repo
 
 ## Developing Using Source Files
