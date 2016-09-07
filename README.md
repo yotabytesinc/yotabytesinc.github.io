@@ -15,4 +15,4 @@ If you need to update the plugins included with this template, simply run the fo
 
 ## Copyright and License
 
-Copyright 2016 Yotabytes INC. Code released under the [MIT](https://github.com/yotabytesinc/yotabytesinc.github.io/LICENSE) license.
+Copyright 2016 Yotabytes INC. Code released under the [MIT](https://github.com/yotabytesinc/yotabytesinc.github.io/blob/master/LICENSE) license.
