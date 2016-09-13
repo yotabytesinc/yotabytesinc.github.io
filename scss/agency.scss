@@ -238,7 +238,7 @@ section {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
@@ -539,8 +539,13 @@ section#contact {
     background-image: url('../img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+    color: white;
     .section-heading {
         color: white;
+        padding-bottom: 20px;
+    }
+    .section-p {
+        padding-bottom: 25px;
     }
     .form-group {
         margin-bottom: 25px;

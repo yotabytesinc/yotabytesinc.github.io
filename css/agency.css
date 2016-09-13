@@ -255,7 +255,7 @@ section {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; } }
+    padding: 100px 0; } }
 
 .service-heading {
   margin: 15px 0;
@@ -470,9 +470,13 @@ section#contact {
   background-color: #222222;
   background-image: url("../img/map-image.png");
   background-position: center;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  color: white; }
   section#contact .section-heading {
-    color: white; }
+    color: white;
+    padding-bottom: 20px; }
+  section#contact .section-p {
+    padding-bottom: 25px; }
   section#contact .form-group {
     margin-bottom: 25px; }
     section#contact .form-group input,
